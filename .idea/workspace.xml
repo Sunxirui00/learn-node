@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954d4d1a-0a80-404e-bcdc-8e42fc5fb860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08_WebService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/css/mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/css/pc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/jsliang.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-decoration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-frame-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-frame-content.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-frame-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-left-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-left-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-right-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-right-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/mobile-text-content.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/pc-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/images/pc-content-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/js/mobile-terminal-adaptation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/js/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/js/pc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_WebService/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_Event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_GetPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_GetPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_GetPost.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsliang-module/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsliang-module/tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_GetPost.js">
+        <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="80">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -75,7 +54,6 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/node_modules/jsliang-module/package.json" />
         <option value="$PROJECT_DIR$/CommonJS.js" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/stream.js" />
         <option value="$PROJECT_DIR$/console.js" />
@@ -87,13 +65,19 @@
         <option value="$PROJECT_DIR$/08_WebService.js" />
         <option value="$PROJECT_DIR$/09_event.js" />
         <option value="$PROJECT_DIR$/09_Event.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/10_GetPost.js" />
+        <option value="$PROJECT_DIR$/idnex.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="972" />
+    <option name="x" value="786" />
+    <option name="width" value="1141" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,18 +143,18 @@
       <updated>1551937287984</updated>
       <workItem from="1551937289203" duration="9673000" />
       <workItem from="1552010120358" duration="11207000" />
-      <workItem from="1552269106060" duration="10628000" />
+      <workItem from="1552269106060" duration="12012000" />
+      <workItem from="1552290281825" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31508000" />
+    <option name="totallyTimeSpent" value="33231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="972" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="786" y="0" width="1141" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28265524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23934723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,7 +166,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16429354" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5794085" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -211,13 +195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -284,9 +261,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_web.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/07_web.js" />
     <entry file="file://$PROJECT_DIR$/08_WebService/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -345,10 +320,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10_GetPost.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="336">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>

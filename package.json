@@ -6,7 +6,9 @@
   "dependencies": {
     "jsliang-module": "1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mysql": "^2.16.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

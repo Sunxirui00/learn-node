@@ -2,7 +2,7 @@ let http = require('http');
 // 虚拟数据
 var items = [];
 
-http.createServer((res, req)=>{
+http.createServer((req, res)=>{
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
     res.setHeader('Content-Type', 'application/json');
@@ -11,7 +11,7 @@ http.createServer((res, req)=>{
 
         // post 请求时，浏览器会先发一次options请求，如果请求通过，则继续发送正式的post请求。
         case 'OPTIONS':
-            res.staus.code = 200;
+            res.statusCode = 200;
             res.end();
             break;
         case 'GET':
